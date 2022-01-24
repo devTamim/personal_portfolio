@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+  line-height: 30px;
+  font-family: "Lobster", cursive;
+}
+h2 {
+  font-size: 40px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: "Lobster", cursive;
+}
+h4 {
+  font-size: 18px;
+  margin-bottom: 40px;
+  font-weight: 400;
+  color: #555;
+}
+p {
+  margin-top: 40px;
+  color: #555;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+.btn {
+  background-color: #ff5959;
+  text-decoration: none;
+  padding: 10px 30px;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.heading {
+  color: #ffad5a;
+}
+.rectangle {
+  border-left: 3px solid #ffad5a;
+  padding-left: 10px;
+  margin-top: 130px;
+}
+.top-section {
+  display: flex;
+}
+.top-col {
+  width: 40%;
+  margin-left: 10%;
+}
+.top-col img {
+  width: 80%;
+}
+.mission {
+  margin-top: 100px;
+}
+.mission h1 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.row {
+  display: flex;
+  margin-left: 10%;
+}
+.mission-col {
+  width: 25%;
+  background: #eef6f7;
+  padding: 25px 25px 50px 25px;
+  border-radius: 30px;
+  margin-right: 25px;
+}
+.mission-col-01 {
+  background: #ffefef;
+}
+.mission-col-02 {
+  background: #fff4d6;
+}
+.mission-col p {
+  margin: 0;
+  text-align: justify;
+  font-size: 17px;
+}
+.mission-col h2 {
+  font-weight: 600;
+}
+.mission-col img {
+  width: 50%;
+}
+.develop {
+  margin-top: 150px;
+  background-image: url(media/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 250px;
+  background-position-y: 50px;
+  background-position-x: 50px;
+}
+.img-col {
+  width: 30%;
+}
+.img-col img {
+  width: 100%;
+  transform: translate(20px, -70px);
+}
+.text-col {
+  width: 45%;
+  padding-left: 100px;
+  margin-right: 10%;
+}
+.comunity {
+  margin-top: 110px;
+  background-image: url(media/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 200px;
+  background-position-y: 200px;
+
+  margin-right: 50px;
+}
+.app {
+  margin-top: 150px;
+}
+#bg {
+  background: url(media/shapes/shape-3.png);
+  background-size: 150px;
+  background-repeat: no-repeat;
+}
+#transform {
+  transform: translate(20px, 20px);
+}
+#margin {
+  margin-top: 100px;
+}
+footer {
+  background-color: black;
+  height: 200px;
+}
+footer h2 {
+  color: #fff;
+  text-align: center;
+  padding-top: 45px;
+}
+footer p {
+  color: #eef6f7;
+  text-align: center;
+  font-size: 14px;
+}
